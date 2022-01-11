@@ -22,7 +22,7 @@ In the pattern analysis (correlation analysis) we found three major clusters nam
 
 ### Statistical Analysis - Data Driven Decision
 We run statistical tests in the form of regression to answer the questions and propose a data-driven action to the Decision Maker /Chief Marketing Officer e.g by answering 
-- what factors are significantly related to the number of store purchases?
+- What factors are significantly related to the number of store purchases?
 - Does US fare significantly better than the rest of the world in terms of total purchases?
 - Do people who spent an average amount of gold significantly do store purchases? 
 - Does fish omega fatty acid signifiantly related to Higher educated people?
@@ -35,3 +35,15 @@ We then plotted and visualized to answers to the below questions.
 - Which products are performing best?
 - Which channels are underperforming?
 ![heatmap_correlation_matrix](https://user-images.githubusercontent.com/36482524/148923435-5929d923-2007-495a-90a5-a8742d7aa6ac.png)
+### Summary - ctionable findings to improve advertising campaign success
+Finding-1: The most successful advertising campaign was the most recent campaign (column name: Response), and was particularly successful in Mexico (>60% acceptance rate!)
+Suggested action: Conduct future advertising campaigns using the same model recently implemented in Mexico.
+
+Finding-2: Advertising campaign acceptance is positively correlated with income and negatively correlated with having kids/teens
+Suggested action: Create two streams of targeted advertising campaigns, one aimed at high-income individuals without kids/teens and another aimed at lower-income individuals with kids/teens
+
+Finding-3: The most successful products are wines and meats (i.e. the average customer spent the most on these items)
+Suggested action: Focus advertising campaigns on boosting sales of the less popular items
+
+Finding-4: The best performing channels are web and store purchases (i.e. the average customer made the most purchases via these channels)
+Suggested action: Focus advertising campaigns on the more successful channels, to reach more customers
