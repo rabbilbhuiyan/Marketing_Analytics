@@ -1,5 +1,5 @@
 # Marketing Campaigns Analytics
-The objective of this analytics project is to investigate wheter marketing campaigns have been as effective as were expected to be and also propose a data-driven solutions by extracting actionable insights from the given data of a company that improves their decision-making process. Furthermore, the project also answer to provide the best possible predictive model for the marketing campaign of their new product which shows if a customer buys the new product or not and how much is the possibility of the purchase.
+The objective of this analytics project is to investigate wheter marketing campaigns have been as effective as were expected to be and also propose a data-driven solutions by extracting actionable insights from the given data of a company that improves their decision-making process. Furthermore, the project also performs Customer segmentation analysis - the practice of separating customers into groups that reflect similarities among customers in each cluster, in order to help a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
 ### Dataset
 The dataset consist of 2240 observations (customers) with 28 variables related to marketing data. More specifically, the variables provide insights about:
@@ -47,3 +47,7 @@ Suggested action: Focus advertising campaigns on boosting sales of the less popu
 
 Finding-4: The best performing channels are web and store purchases (i.e. the average customer made the most purchases via these channels)
 Suggested action: Focus advertising campaigns on the more successful channels, to reach more customers
+
+#### Customer Segmentation Anaysis
+For this analysis, I performed unsupervised clustering. I did use dimensionality reduction followed by agglomerative clustering. I came up with 4 clusters and further used them in profiling customers in clusters according to their family structures and income/spending. This can be used in planning better marketing strategies.
+
