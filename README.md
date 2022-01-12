@@ -53,4 +53,31 @@ For this analysis, I performed unsupervised clustering. I did use dimensionality
 
 ![customer_cluster](https://user-images.githubusercontent.com/36482524/149098768-7e442cc7-4d2d-4950-b27d-f0b410afec63.png)
 
+#### Findings - planning marketing strategies based on the observed customer clusters
+Culster -0 :
+- They are definitely a parent
+- At the max are 5 members in the family and at least 2
+- Mjority of them have a teenager at home
+- Relatively older
+- A lower-income group
+
+Cluster -1:
+- Are a definetly parent
+- At the max have 4 members in the fiamily and at least 2
+- Single parents are a subset of this group
+- Most hava a teenager at home
+- Relatively older
+
+Culster -2:
+- Are a definitely not a parent
+- At the max only 2 members in the family
+- A slight majority of couples over single people
+- Span over all ages
+- A high income group
+
+Cluster - 3:
+- The mjority of these people are parents
+- At the max are 3 members in the family
+- They majorly have one kid
+- Relatively younger
 
