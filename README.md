@@ -35,7 +35,7 @@ We then plotted and visualized to answers to the below questions.
 - Which products are performing best?
 - Which channels are underperforming?
 ![heatmap_correlation_matrix](https://user-images.githubusercontent.com/36482524/148923435-5929d923-2007-495a-90a5-a8742d7aa6ac.png)
-### Summary - ctionable findings to improve advertising campaign success
+### Summary - actionable findings to improve advertising campaign success
 Finding-1: The most successful advertising campaign was the most recent campaign (column name: Response), and was particularly successful in Mexico (>60% acceptance rate!)
 Suggested action: Conduct future advertising campaigns using the same model recently implemented in Mexico.
 
@@ -48,6 +48,9 @@ Suggested action: Focus advertising campaigns on boosting sales of the less popu
 Finding-4: The best performing channels are web and store purchases (i.e. the average customer made the most purchases via these channels)
 Suggested action: Focus advertising campaigns on the more successful channels, to reach more customers
 
-#### Customer Segmentation Anaysis
-For this analysis, I performed unsupervised clustering. I did use dimensionality reduction followed by agglomerative clustering. I came up with 4 clusters and further used them in profiling customers in clusters according to their family structures and income/spending. This can be used in planning better marketing strategies.
+## Customer Segmentation Anaysis
+For this analysis, I performed unsupervised clustering. I did use dimensionality reduction followed by agglomerative clustering. I came up with 4 clusters (based on elbow method with hihger silhouette score) and further used them in profiling customers in clusters according to their family structures and income/spending. This can be used in planning better marketing strategies.
+
+![customer_cluster](https://user-images.githubusercontent.com/36482524/149098768-7e442cc7-4d2d-4950-b27d-f0b410afec63.png)
+
 
