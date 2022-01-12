@@ -55,7 +55,7 @@ For this analysis, I performed unsupervised clustering. I did use dimensionality
 
 ![customer_cluster](https://user-images.githubusercontent.com/36482524/149098768-7e442cc7-4d2d-4950-b27d-f0b410afec63.png)
 
-#### Findings - planning marketing strategies based on the observed customer clusters
+### Findings - planning marketing strategies based on the observed customer clusters
 Culster -0 :
 - They are definitely a parent
 - At the max are 5 members in the family and at least 2
