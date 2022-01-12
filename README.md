@@ -1,5 +1,7 @@
 # Marketing Campaigns Analytics
-The objective of this analytics project is to investigate wheter marketing campaigns have been as effective as were expected to be and also propose a data-driven solutions by extracting actionable insights from the given data of a company that improves their decision-making process. Furthermore, the project also performs Customer segmentation analysis - the practice of separating customers into groups that reflect similarities among customers in each cluster, in order to help a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+The objective of this analytics project is to investigate wheter marketing campaigns have been as effective as were expected to be and also propose a data-driven solutions by extracting actionable insights from the given data of a company that improves their decision-making process. 
+
+Furthermore, the project also performs Customer segmentation analysis - the practice of separating customers into groups that reflect similarities among customers in each cluster, in order to help a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
 ### Dataset
 The dataset consist of 2240 observations (customers) with 28 variables related to marketing data. More specifically, the variables provide insights about:
